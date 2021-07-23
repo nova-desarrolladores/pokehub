@@ -95,12 +95,10 @@
       "num": "002",
       "name": "Ivysaur"
     }],
-          "next_evolution": [
-        {
-          "num": "0",
-          "name": "This is the final Evolution"
-        }
-      ]
+      "next_evolution": [{
+      "num": "000",
+      "name": "This is the final evolution"
+    }]
   }, {
     "id": 4,
     "num": "004",
